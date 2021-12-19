@@ -1,0 +1,2 @@
+#You can run some Python code without creating a file, but I don’t rememeber ever needing this. If you insists
+#python -c "print 42"
